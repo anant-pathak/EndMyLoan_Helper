@@ -1,7 +1,7 @@
 # EndMyLoan_Helper
 No it won't help you pay but helps project when your loan will end. Isn't that sweet to imagine :P 
 
-Have info of the following: 
+### Have info of the following: 
 1) Total loan amount left. 
 2) Interest / year. (It'd automatically convert it into %/month)
 3) Total number of months left for the loan to get repaid. 
@@ -9,10 +9,10 @@ Have info of the following:
 
 It'd list for each month the following: 
 
-Monthly(Extra payment being made) | 	ACH(Interest amount payment) | 	Left amount
+**Monthly(Extra payment being made) | 	ACH(Interest amount payment) | 	Left amount**
 
-How to run the script? 
+## How to run the script? 
 
 In terminal: 
-> g++ EMI_Calc.cpp
+> g++ EMI_Calc.cpp <br />
 > ./a.out 
